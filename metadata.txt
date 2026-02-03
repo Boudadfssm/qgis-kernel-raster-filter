@@ -1,0 +1,22 @@
+[general]
+name=Kernel Raster Filter
+qgisMinimumVersion=3.22
+description=Applies a custom convolution filter (kernel) to a raster layer
+
+version=1.0
+author=B.Boudad
+email=brahimbd@gmail.com
+
+about=Applies a custom convolution filter (kernel) to a raster layer using a text file.
+
+tracker=https://github.com/Boudadfssm/kernel-raster-filter/issues
+repository=https://github.com/Boudadfssm/kernel-raster-filter
+homepage=https://github.com/Boudadfssm/kernel-raster-filter
+
+hasProcessingProvider=yes
+category=Raster
+tags=raster,convolution,filter,kernel,processing
+icon=icon.png
+experimental=False
+deprecated=False
+server=False
